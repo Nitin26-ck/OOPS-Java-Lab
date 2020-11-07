@@ -1,3 +1,7 @@
+/*
+To print Fibonacci series using recursion.(concept of
+loops, data types)
+*/
 import java.util.*;
 public class fibonacci_recursion{
     public static int fib(int n){
