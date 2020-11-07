@@ -1,3 +1,14 @@
+/*
+Write a java program to work with strings.
+a. Extract a portion of the string and print it. Variable m indicates the amount of
+characters to be extracted from the string starting from the nth position.
+b. Read a text and count all the occurrences of a particular word.
+c. Replace a substring in the given string.
+d. Rearrange the string and rewrite in alphabetical order.
+e. Compare two strings ignoring case.
+f. Concatenate two strings.
+*/
+
 import java.util.*;
 public class Strings{
 
