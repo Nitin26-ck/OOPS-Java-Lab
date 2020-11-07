@@ -1,3 +1,7 @@
+/*
+Define a class Complex with data members as two real numbers, constructors for
+initialization these numbers, methods to add, subtract and multiply 2 complex numbers
+*/
 import java.util.*;
 public class Complex{
     Scanner sc = new Scanner(System.in);
