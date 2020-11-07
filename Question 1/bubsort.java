@@ -1,3 +1,6 @@
+/*
+To sort an array elements using bubble sort algorithm.
+*/
 import java.util.Scanner;
 class bubsort
 {
