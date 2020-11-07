@@ -1,3 +1,7 @@
+/*
+To print Fibonacci series without using recursion(concept of
+loops, data types)
+*/
 import java.util.*;
 /*
   Without recursion
