@@ -1,3 +1,7 @@
+/*
+ Write a java program to implement queues of Strings using an ArrayList class of the
+Collection framework.
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 
